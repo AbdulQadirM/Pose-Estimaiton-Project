@@ -1,1 +1,2 @@
 # Pose-Estimaiton-Project
+"Pose Estimation with Mediapipe" is a Python project that uses the Mediapipe library to perform pose estimation on an image. The script processes an input image and detects pose landmarks, which are then drawn on the image. The resulting image is displayed and saved to a file. This project could be useful for applications that require pose estimation, such as sports analytics, fitness tracking, and virtual try-on. The code is available on GitHub and can be easily modified or integrated into other projects.
